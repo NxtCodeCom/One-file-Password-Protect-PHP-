@@ -2,7 +2,6 @@
 
 /**
  *********************************************************************************
- *    SPELLOVERYOU - We Love Code
  *
  *    @package      EASY FILE PROTECTION
  *    @version      1.0.0
