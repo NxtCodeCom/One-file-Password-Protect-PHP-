@@ -10,7 +10,6 @@ include_once("secure.php");
 
 Change below parameters in the secure.php file
 ```php
-	const USERNAME = "YOURUSERNAME";
-	/**    PASSWORD  * */
-	const PASSWORD = "YOURPASSWORD";
+const USERNAME = "YOURUSERNAME";
+Const PASSWORD = "YOURPASSWORD";
 ```
