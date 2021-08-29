@@ -5,6 +5,7 @@
  *
  *    @package      EASY FILE PROTECTION
  *    @version      1.0.0
+ *    @owner        https://github.com/NxtCodeCom
  **********************************************************************************/
 
 
