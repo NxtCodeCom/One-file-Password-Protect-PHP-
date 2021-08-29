@@ -5,8 +5,6 @@
  *
  *    @package      EASY FILE PROTECTION
  *    @version      1.0.0
- *    @Company      Vinay Choudhary
- *    @Client       Nxtcode Solutions
  **********************************************************************************/
 
 
